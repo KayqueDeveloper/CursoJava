@@ -1,2 +1,2 @@
-digite meail
-digit senha
+inserir email
+inserir senha
