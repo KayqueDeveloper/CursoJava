@@ -1,0 +1,28 @@
+id,nome,sigla,regiao,populacao
+1,Acre,AC,Norte,0.83
+4,Alagoas,AL,Nordeste,3.38
+5,Amapá,AP,Norte,0.8
+6,Amazonas,AM,Norte,4.06
+19,Bahia,BA,Nordeste,15.34
+20,Ceará,CE,Nordeste,9.02
+21,Distrito Federal,DF,Centro-Oeste,3.04
+22,Espírito Santo,ES,Sudeste,4.02
+23,Goiás,GO,Centro-Oeste,6.78
+24,Maranhao,MA,Nordeste,7
+25,Mato Grosso,MT,Centro-Oeste,3.34
+26,Mato Grosso do Sul,MS,Centro-Oeste,2.71
+27,Minas Gerais,MG,Sudeste,21.12
+28,Pará,PA,Norte,8.36
+29,Paraíba,PB,Nordeste,4.03
+30,Parana,PR,Sul,11.22
+31,Pernambuco,PE,Nordeste,9.47
+32,Piauí,PI,Nordeste,3.22
+33,Rio de Janeiro,RJ,Sudeste,16.72
+34,Rio Grande do Norte,RN,Nordeste,3.51
+35,Rio Grande do Sul,RS,Sul,11.32
+36,Rondônia,RO,Norte,1.81
+37,Roraima,RR,Norte,0.52
+38,Santa Catarina,SC,Sul,7.01
+39,São Paulo,SP,Sudeste,45.1
+40,Sergipe,SE,Nordeste,2.29
+41,Tocantins,TO,Norte,1.55
